@@ -1,0 +1,10 @@
+.about {
+    background-image: url("/Content/images/about.PNG");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    color: #d8d8d8;
+    padding: 14em 0;
+    text-align: center;
+    position: relative;
+}
